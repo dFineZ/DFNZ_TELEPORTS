@@ -1,0 +1,10 @@
+{
+    "password": "Passwort",
+    "enter_password": "Gebe das Passwort ein",
+    "wrong_password": "Das Passwort ist falsch...",
+    "teleport": "Teleport",
+    "has": "hat",
+    "wrong_job": "Du hast nicht den richtigen Job..."  ,
+    "try_to": "versuchte",
+    "has_wrong_job": "aber hat den falschen Job!"
+}

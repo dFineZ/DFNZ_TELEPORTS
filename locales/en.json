@@ -1,0 +1,10 @@
+{
+    "password": "Password",
+    "enter_password": "Enter the password",
+    "wrong_password": "The password is wrong...",
+    "teleport": "Teleport",
+    "has": "has",
+    "wrong_job": "You got the wrong job..."  ,
+    "try_to": "trys to",
+    "has_wrong_job": "but has the wrong job!"
+}
